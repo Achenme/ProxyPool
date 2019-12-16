@@ -1,7 +1,8 @@
 [![Travis Status for henson/ProxyPool](https://travis-ci.org/henson/ProxyPool.svg?branch=master)](https://travis-ci.org/henson/ProxyPool) [![Go Report Card](https://goreportcard.com/badge/github.com/henson/ProxyPool)](https://goreportcard.com/report/github.com/henson/ProxyPool)
 
 # Golang实现的IP代理池
-
+> 1
+> 2
 > 采集免费的代理资源为爬虫提供有效的代理
 
 
